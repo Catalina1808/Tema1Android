@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">homework1</string>
+    <string name="hello_first_fragment">Hello F1A1!</string>
+    <string name="next">Next</string>
+    <string name="hello_second_fragment">Hello F1A2!</string>
+    <string name="hello_third_fragment">Hello F2A2!</string>
+    <string name="replace">" replace F2A2 with F3A2"</string>
+    <string name="remove">go back to F1A2</string>
+    <string name="close">close the activity</string>
+    <string name="hello_fourth_fragment">Hello F3A2!</string>
+    <string name="btn1">go to second activity</string>
+    <string name="btn2">add F2A2</string>
+</resources>
